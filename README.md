@@ -1,30 +1,61 @@
-# C27
+# C27 Collaboration Project
 
 ## About
 
-This project is a fun portfolio site for anyone to showcase their skills post umuzi projects.
+This project is a fun, collaborative portfolio site for Umuzi graduates to showcase their personalities and skills after completing their projects. It's designed to be more casual than a traditional CV site, emphasizing creativity and personal expression.
 
-The idea is for a cohort to build something together, pin different faces on the site, then when a user clicks on the person's avatar/pic then it takes then to a customized size that shows a little bit about them, the project should be casual and not used as a proffesional CV site, but somethung that shows personality.
+## Project Vision
 
-One can link their basic portfolio site or build a totally new card just sharing some cool info about themselves.
+We're creating a digital space where each cohort can:
+- Build something together as a team
+- Feature individual members with interactive avatars
+- Showcase personality through customized profile cards
+- Create a lasting record of their cohort experience
 
-## Goal
+## Goals
 
-[Umuzi](https://www.umuzi.org/) has been a great learning experience, the syllubus has a lot of gold knowledge. A problem I observed on our first interaction with a company, it was that a lot of Umuzi students were used to working on repos by themselves being the sole contributor and externals were people reviewing the code and not contibuting to it. This does affect the dynamics of team work and team contribution.
+1. **Enhance Collaboration Skills**: Address the transition from solo projects to team-based work
+2. **Create Cohort Identity**: Build a unique digital footprint for each Umuzi cohort
+3. **Improve Real-World Readiness**: Simulate collaborative development environments
+4. **Establish Legacy**: Create an evolving showcase of Umuzi's community
 
-I thought it would be cool to add a collaboration project to the [syllabus](https://syllabus.africacode.net/) where a cohort can come together to build something cool, the idea can be anything but for now I figured it can start as an "I was here" kind of a thing, where each cohort builds something about their cohort, shows every person that made the cohort and things that they like while also emphasizing the endless catalog of all the cool people Umuzi has trained.
+## Technical Approach
 
-In the same sense a brownfield project is also a necessary project that can be introduced where students inherit an old codebase and they work on refactoring it, making it better while adding new features to it. All in the spirit of just aiding cover small gaps that I think can help a new intern somewhere gel easy with their teams.
+### Proposed Stack
 
-## Proposed Stack
+| Category       | Technology          |
+|----------------|---------------------|
+| Frontend       | Vue.js/Angular      |
+| Backend        | Firebase/Supabase   |
+| Hosting        | Netlify             |
+| Version Control| GitHub              |
+| Design         | Figma               |
 
-We can use as many free resources a possible:
+### Key Features
+- Interactive cohort member gallery
+- Personalized profile cards
+- Easy content updates
+- Responsive design
 
-- Deploys: Netlify
-- Backend: Firebase/Supabase
-- Frontend: Vue/Angular
-- Versioning: Github
+## Design Resources
 
-## Resources
+View our prototype on Figma:  
+[C27 Project Prototype](https://www.figma.com/proto/Jytopb8LZCQMjp7ceM63Hp/Collaboration-Project-Umuzi?node-id=6-33&starting-point-node-id=6%3A33&scaling=scale-down-width&content-scaling=fixed)  
+*Tip: Adjust your viewport width for optimal viewing*
 
-- Figma Design: [Prototyped](https://www.figma.com/proto/Jytopb8LZCQMjp7ceM63Hp/Collaboration-Project-Umuzi?node-id=6-33&starting-point-node-id=6%3A33&scaling=scale-down-width&content-scaling=fixed). **NB!** Make sure you fit to your width to have easy view.
+## Contribution Guidelines
+
+We welcome all Umuzi students to:
+1. Clone the repository
+2. Create your personalized profile component
+3. Submit a pull request
+4. Participate in code reviews
+
+## Future Enhancements
+
+1. Brownfield project integration
+2. Alumni network features
+3. Skill tagging system
+4. Cohort comparison views
+
+Let's build something amazing together! 🚀
